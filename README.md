@@ -9,7 +9,7 @@ It is a serious ecological problem with a strong impact not only on aquatic life
 ## Goal:
 Being able to monitor and perform an early forecast of algae blooms is essential to improving the quality of rivers. With the goal of addressing this prediction problem
 
-## DATASET
+## Dataset
 - There are two datasets to be precise. 
 - One with 200 water samples and other with 140 water samples
 - Each data set includes 11 variables.
